@@ -5,3 +5,7 @@ O
 contracts/patient-identity.clar,c/a/cae31cf20ae94b1d7dd7e71ba95581f84e549b91
 N
 tests/patient-identity.test.ts,1/3/133cd63aa5692b360205dca0fe08b90143b0972b
+N
+contracts/record-location.clar,8/5/85d223d44a019e48fdbc2330d33b9d8555383c43
+M
+tests/record-location.test.ts,f/b/fbaef95ce4b5c7a8c21b93014338d960b14bed3e
