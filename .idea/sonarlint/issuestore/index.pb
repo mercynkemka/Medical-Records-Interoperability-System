@@ -9,3 +9,7 @@ N
 contracts/record-location.clar,8/5/85d223d44a019e48fdbc2330d33b9d8555383c43
 M
 tests/record-location.test.ts,f/b/fbaef95ce4b5c7a8c21b93014338d960b14bed3e
+K
+contracts/access-audit.clar,0/f/0f3a4257dd6cc4033ab534c28c077716dcf10b58
+J
+tests/access-audit.test.ts,b/1/b1c09606327525e0d22dc212e7ad4f915879a091
